@@ -8,8 +8,11 @@
     "start": "next start"
   },
   "dependencies": {
+    "@webdeb/next-styles": "^1.0.6",
+    "axios": "^0.19.2",
     "next": "9.2.2",
     "react": "16.13.0",
-    "react-dom": "16.13.0"
+    "react-dom": "16.13.0",
+    "react-paginate": "^6.3.2"
   }
 }

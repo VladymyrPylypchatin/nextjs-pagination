@@ -1,5 +1,5 @@
 Example of the simple paggination in Next.js using `react-paginate`
-Full tutorial: https://www.vpilip.com/how-build-simple-pagination-in-nextjs/
+Full tutorial: https://vpilip.com/how-build-simple-pagination-in-nextjs/
 
 ## Getting Started
 
